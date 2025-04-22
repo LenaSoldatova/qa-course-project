@@ -1,0 +1,16 @@
+# Node.js
+node_modules/
+
+# Playwright reports
+/test-results/
+/playwright-report/
+/playwright/.cache/
+browser-context.json
+
+# Allure reports
+/allure-results/
+/allure-report/
+/blob-report/
+
+# dotenv
+.env
