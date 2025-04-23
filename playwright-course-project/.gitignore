@@ -1,5 +1,8 @@
 # Node.js
 node_modules/
+package-lock.json
+/package-lock.json
+.package-lock.json
 
 # Playwright reports
 /test-results/
@@ -13,4 +16,4 @@ browser-context.json
 /blob-report/
 
 # dotenv
-.env
+#.env
